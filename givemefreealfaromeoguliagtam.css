@@ -1,1 +1,10 @@
+body {
+    background-image: url('mge-sniper.jpg');
+    width: 100vw;
+    height: 100vh;
+}
+h1 {
+    color: rgb(191, 200, 219);
+    text-align: center;
 
+}
