@@ -8,3 +8,55 @@ h1 {
     text-align: center;
 
 }
+
+.picture1 {
+    display: block;
+    position: absolute;
+    width: 15vw;
+    height: 15vw;
+    right: 250px;
+    bottom: 0px;
+}
+.picture1 img {
+    width: 100%;
+    height: 100%;
+}
+
+.olen {
+    display: block;
+    position: absolute;
+    width: 15vw;
+    height: 15vw;
+    right: 0px;
+    top: 0px;
+}
+.olen img {
+    width: 100%;
+    height: 100%;
+}
+
+.derevo {
+    display: block;
+    position: absolute;
+    width: 25vw;
+    height: 15vw;
+    left: 0px;
+    bottom: 50px;
+}
+.derevo img {
+    width: 100%;
+    height: 100%;
+}
+
+.karta {
+    display: block;
+    position: absolute;
+    width: 30vw;
+    height: 15vw;
+    left: 0px;
+    bottom:250px;
+}
+.derevo img {
+    width: 100%;
+    height: 100%;
+}
